@@ -3,4 +3,9 @@
 hello <- function(){
   print("Hello")
 }
-hello
+
+h_constant = 1
+
+hello2 <- function(){
+  print("dobrý den")
+}
